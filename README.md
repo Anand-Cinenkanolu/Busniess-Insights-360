@@ -2,7 +2,7 @@
 
 - Welcome to my comprehensive Business Insights 360 Project.
 
-📌 [Power BI Live Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiODYyZTRlNWQtMTc3ZC00NzE2LThlY2UtZGU5OTQ3MjgyNTA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 👆🏻
+📌 [Power BI Live Dashboard Report](https://app.powerbi.com/view?r=eyJrIjoiNmRkMDIxMTktYmVmOC00ZjNhLWEzYzktZWI0NjQyNTZhZGQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 👆🏻
 
 ## 🧠 Project Summary
 
@@ -83,7 +83,7 @@ Now, their leadership gets clear, real-time insights. Fewer blind spots. Faster 
 
 ## 🧭 How to Explore
 
-1. Open the [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiODYyZTRlNWQtMTc3ZC00NzE2LThlY2UtZGU5OTQ3MjgyNTA2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+1. Open the [Live Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiNmRkMDIxMTktYmVmOC00ZjNhLWEzYzktZWI0NjQyNTZhZGQ5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 2. Use the navigation buttons on the home page
 3. Explore each view: Finance, Sales, Marketing, Supply Chain, and Executive
 4. Apply filters to dig deeper into the data
